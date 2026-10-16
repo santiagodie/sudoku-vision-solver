@@ -1,0 +1,8 @@
+# Versions the notebooks were last run with (Python 3.12).
+# Tesseract itself must be installed separately (see README).
+numpy==2.4.4
+opencv-python==4.13.0.92
+matplotlib==3.10.8
+scikit-learn==1.8.0
+pytesseract==0.3.13
+jupyter
